@@ -1,0 +1,387 @@
+[
+ {
+   "date": "10/18/2020",
+   "state": "Alabama",
+   "id": 1,
+   "cases": 172626,
+   "deaths": 2788
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Alaska",
+   "id": 2,
+   "cases": 11934,
+   "deaths": 63
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Arizona",
+   "id": 4,
+   "cases": 231149,
+   "deaths": 5827
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Arkansas",
+   "id": 5,
+   "cases": 99066,
+   "deaths": 1704
+ },
+ {
+   "date": "10/18/2020",
+   "state": "California",
+   "id": 6,
+   "cases": 878346,
+   "deaths": 16979
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Colorado",
+   "id": 8,
+   "cases": 85803,
+   "deaths": 2199
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Connecticut",
+   "id": 9,
+   "cases": 62830,
+   "deaths": 4542
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Delaware",
+   "id": 10,
+   "cases": 23093,
+   "deaths": 665
+ },
+ {
+   "date": "10/18/2020",
+   "state": "District of Columbia",
+   "id": 11,
+   "cases": 16370,
+   "deaths": 641
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Florida",
+   "id": 12,
+   "cases": 755012,
+   "deaths": 15966
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Georgia",
+   "id": 13,
+   "cases": 326080,
+   "deaths": 7460
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Guam",
+   "id": 66,
+   "cases": 4507,
+   "deaths": 64
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Hawaii",
+   "id": 15,
+   "cases": 14183,
+   "deaths": 186
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Idaho",
+   "id": 16,
+   "cases": 53092,
+   "deaths": 532
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Illinois",
+   "id": 17,
+   "cases": 348870,
+   "deaths": 9491
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Indiana",
+   "id": 18,
+   "cases": 150005,
+   "deaths": 3937
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Iowa",
+   "id": 19,
+   "cases": 107334,
+   "deaths": 1532
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Kansas",
+   "id": 20,
+   "cases": 72722,
+   "deaths": 859
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Kentucky",
+   "id": 21,
+   "cases": 89538,
+   "deaths": 1372
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Louisiana",
+   "id": 22,
+   "cases": 178869,
+   "deaths": 5750
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Maine",
+   "id": 23,
+   "cases": 5939,
+   "deaths": 146
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Maryland",
+   "id": 24,
+   "cases": 136149,
+   "deaths": 4037
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Massachusetts",
+   "id": 25,
+   "cases": 143660,
+   "deaths": 9737
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Michigan",
+   "id": 26,
+   "cases": 159337,
+   "deaths": 7323
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Minnesota",
+   "id": 27,
+   "cases": 122865,
+   "deaths": 2287
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Mississippi",
+   "id": 28,
+   "cases": 110006,
+   "deaths": 3171
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Missouri",
+   "id": 29,
+   "cases": 162156,
+   "deaths": 2648
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Montana",
+   "id": 30,
+   "cases": 22821,
+   "deaths": 241
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Nebraska",
+   "id": 31,
+   "cases": 58068,
+   "deaths": 557
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Nevada",
+   "id": 32,
+   "cases": 90374,
+   "deaths": 1711
+ },
+ {
+   "date": "10/18/2020",
+   "state": "New Hampshire",
+   "id": 33,
+   "cases": 9694,
+   "deaths": 467
+ },
+ {
+   "date": "10/18/2020",
+   "state": "New Jersey",
+   "id": 34,
+   "cases": 221802,
+   "deaths": 16211
+ },
+ {
+   "date": "10/18/2020",
+   "state": "New Mexico",
+   "id": 35,
+   "cases": 36788,
+   "deaths": 934
+ },
+ {
+   "date": "10/18/2020",
+   "state": "New York",
+   "id": 36,
+   "cases": 489016,
+   "deaths": 32972
+ },
+ {
+   "date": "10/18/2020",
+   "state": "North Carolina",
+   "id": 37,
+   "cases": 246116,
+   "deaths": 3961
+ },
+ {
+   "date": "10/18/2020",
+   "state": "North Dakota",
+   "id": 38,
+   "cases": 31983,
+   "deaths": 409
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Northern Mariana Islands",
+   "id": 69,
+   "cases": 86,
+   "deaths": 2
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Ohio",
+   "id": 39,
+   "cases": 181787,
+   "deaths": 5067
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Oklahoma",
+   "id": 40,
+   "cases": 107299,
+   "deaths": 1171
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Oregon",
+   "id": 41,
+   "cases": 39532,
+   "deaths": 622
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Pennsylvania",
+   "id": 42,
+   "cases": 186772,
+   "deaths": 8555
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Puerto Rico",
+   "id": 72,
+   "cases": 57293,
+   "deaths": 766
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Rhode Island",
+   "id": 44,
+   "cases": 27691,
+   "deaths": 1152
+ },
+ {
+   "date": "10/18/2020",
+   "state": "South Carolina",
+   "id": 45,
+   "cases": 163990,
+   "deaths": 3650
+ },
+ {
+   "date": "10/18/2020",
+   "state": "South Dakota",
+   "id": 46,
+   "cases": 33269,
+   "deaths": 323
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Tennessee",
+   "id": 47,
+   "cases": 225126,
+   "deaths": 2884
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Texas",
+   "id": 48,
+   "cases": 868917,
+   "deaths": 17541
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Utah",
+   "id": 49,
+   "cases": 94394,
+   "deaths": 544
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Vermont",
+   "id": 50,
+   "cases": 1937,
+   "deaths": 58
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Virgin Islands",
+   "id": 78,
+   "cases": 1335,
+   "deaths": 21
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Virginia",
+   "id": 51,
+   "cases": 166138,
+   "deaths": 3433
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Washington",
+   "id": 53,
+   "cases": 102403,
+   "deaths": 2339
+ },
+ {
+   "date": "10/18/2020",
+   "state": "West Virginia",
+   "id": 54,
+   "cases": 20081,
+   "deaths": 399
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Wisconsin",
+   "id": 55,
+   "cases": 175652,
+   "deaths": 1588
+ },
+ {
+   "date": "10/18/2020",
+   "state": "Wyoming",
+   "id": 56,
+   "cases": 9025,
+   "deaths": 57
+ }
+]
